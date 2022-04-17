@@ -1,0 +1,1 @@
+Inorder traversal to get nodes. Then form new tree.
